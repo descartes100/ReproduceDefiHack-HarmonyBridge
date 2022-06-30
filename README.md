@@ -1,5 +1,7 @@
 # ReproduceDefiHack-HarmonyBridge
 
+[Video Tutorial](https://youtu.be/52AGn0SP3d8)
+
 # Requirement
 1. Mainnet forking: Create an account on [moralis](https://moralis.io/)
 2. [Foundry](https://github.com/foundry-rs/foundry)
